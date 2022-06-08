@@ -1,6 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using DeskBooker.Core.Domain;
+using System;
 using Xunit;
 
 namespace DeskBooker.Core.Processor
